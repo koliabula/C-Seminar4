@@ -1,0 +1,15 @@
+E:\GeekBrain\4 Знакомства с языками программирования\Семинар 4\projects\work\bin\Debug\net6.0\work.exe
+E:\GeekBrain\4 Знакомства с языками программирования\Семинар 4\projects\work\bin\Debug\net6.0\work.deps.json
+E:\GeekBrain\4 Знакомства с языками программирования\Семинар 4\projects\work\bin\Debug\net6.0\work.runtimeconfig.json
+E:\GeekBrain\4 Знакомства с языками программирования\Семинар 4\projects\work\bin\Debug\net6.0\work.dll
+E:\GeekBrain\4 Знакомства с языками программирования\Семинар 4\projects\work\bin\Debug\net6.0\work.pdb
+E:\GeekBrain\4 Знакомства с языками программирования\Семинар 4\projects\work\obj\Debug\net6.0\work.csproj.AssemblyReference.cache
+E:\GeekBrain\4 Знакомства с языками программирования\Семинар 4\projects\work\obj\Debug\net6.0\work.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrain\4 Знакомства с языками программирования\Семинар 4\projects\work\obj\Debug\net6.0\work.AssemblyInfoInputs.cache
+E:\GeekBrain\4 Знакомства с языками программирования\Семинар 4\projects\work\obj\Debug\net6.0\work.AssemblyInfo.cs
+E:\GeekBrain\4 Знакомства с языками программирования\Семинар 4\projects\work\obj\Debug\net6.0\work.csproj.CoreCompileInputs.cache
+E:\GeekBrain\4 Знакомства с языками программирования\Семинар 4\projects\work\obj\Debug\net6.0\work.dll
+E:\GeekBrain\4 Знакомства с языками программирования\Семинар 4\projects\work\obj\Debug\net6.0\refint\work.dll
+E:\GeekBrain\4 Знакомства с языками программирования\Семинар 4\projects\work\obj\Debug\net6.0\work.pdb
+E:\GeekBrain\4 Знакомства с языками программирования\Семинар 4\projects\work\obj\Debug\net6.0\work.genruntimeconfig.cache
+E:\GeekBrain\4 Знакомства с языками программирования\Семинар 4\projects\work\obj\Debug\net6.0\ref\work.dll
